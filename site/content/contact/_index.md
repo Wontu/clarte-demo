@@ -1,19 +1,16 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Kontakter
+logo: img/blog-chemex.jpg
 contact_entries:
-  - heading: Redaktionen
-    text: "redaktion@clarte.nu"
   - heading: Föreningen
-    text: "foreningen@clarte.nu
+    text: |-
+      foreningen@clarte.nu
+
+      Ordförande Karl Karlsson
+  - heading: Tidskriften
+    text: |-
+      tidskriften@clarte.nu
+
+      Chefredaktör Nils Nilsson
 ---
-
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Här hittar du kontaktinfo till föreningen och tidsskriften Clarte.
